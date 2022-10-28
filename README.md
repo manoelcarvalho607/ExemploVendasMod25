@@ -1,1 +1,6 @@
-Projeto feito e executado no STS(Spring Tool Suite 4)
+## curso: Developer Backend Java - Ebac
+### modulo24
+
+- <strong>projeto aplicando metodologia TDD</strong> 
+- <strong>uso generics</strong>
+- <strong>class mock</strong>
